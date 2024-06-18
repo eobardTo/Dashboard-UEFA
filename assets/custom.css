@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card-value {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 10px;
+}
