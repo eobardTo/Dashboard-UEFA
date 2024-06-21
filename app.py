@@ -38,7 +38,7 @@ sidebar = html.Div(
 
         dbc.Nav(
             [
-                dbc.NavLink("Главная", href="/", active="exact"),
+                dbc.NavLink("О проекте", href="/", active="exact"),
                 dbc.NavLink("Обзорная карта", href="/map-view", active="exact"),
                 dbc.NavLink("Статистика по сезонам", href="/season-stats", active="exact"),
                 dbc.NavLink("Анализ команд", href="/team-analysis", active="exact"),

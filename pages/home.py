@@ -29,7 +29,9 @@ def layout():
                     html.Li("Venue: Место проведения финального матча."),
                     html.Li("Attendance: Количество зрителей, присутствующих в месте проведения матча."),
                     html.Li("Notes: Дополнительная информация, например, перешел ли матч в дополнительное время или какие-либо другие примечательные события.")
-                ])
+                ]),
+                html.P("Ссылка на GitHub: "),
+                html.A("https://github.com/eobardTo/Dashboard-UEFA", href="https://github.com/eobardTo/Dashboard-UEFA", target="_blank")
             ]))
         ])
     ])
