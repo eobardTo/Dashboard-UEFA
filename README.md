@@ -19,3 +19,6 @@
 
 ## Ссылка на датасет
 [Champions League Dataset 1955-2023](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023/data)
+
+## Ссылка на сайт
+[Pythonanywhere](http://ivanef.pythonanywhere.com/)
