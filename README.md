@@ -22,3 +22,13 @@
 
 ## Ссылка на сайт
 [Pythonanywhere](http://ivanef.pythonanywhere.com/)
+
+## Как развернуть
+1. Скачать Zip-архив с GitHub
+2. Устноваить вирутальное окружение:
+    * python -m venv venv
+3. Активировать виртульаное окружение:
+    * source venv/Scripts/activate
+4. Установить необходимые библиотеки с помощью следующих команд:
+    * pip install dash pandas
+    * pip install dash-bootstrap-components
